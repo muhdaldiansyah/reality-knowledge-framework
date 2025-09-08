@@ -22,7 +22,7 @@ Suddenly, Semmelweis realized: **doctors dan medical students performed autopsie
 
 **Experiment**: Mandatory hand-washing dengan chlorinated lime solution untuk semua yang masuk Doctor's Ward.
 
-**Result**: Kematian rate dropped dari 18% ke 2%—even lower than Midwife Ward.
+**Hasil**: Kematian rate dropped dari 18% ke 2%—even lower than Midwife Ward.
 
 But medical establishment **rejected his findings**. Colleagues felt insulted bahwa mereka dianggap cause of deaths. Semmelweis was eventually fired dan died dalam mental asylum, broken dan unrecognized.
 
@@ -79,7 +79,7 @@ Strong hypothesis characteristics:
 - **Parsimonious**: Simplest explanation yang fits observations
 - **Builds on existing knowledge**: Connects to established theories
 
-**Example**: "If open offices reduce barriers to communication, then employees in open offices will have more collaborative interactions than those dalam private offices."
+**Contoh**: "If open offices reduce barriers to communication, then employees in open offices will have more collaborative interactions than those dalam private offices."
 
 ### Step 4: Experimental Design
 **The most critical step—where most errors occur.**
@@ -206,7 +206,7 @@ You don't need lab coat untuk apply scientific thinking:
 - **Analysis**: Statistical significance testing, confidence intervals
 - **Conclusion**: Implement version dengan best performance
 
-### Marketing Strategy
+### Marketing Strategi
 - **Observe**: Different channels produce different customer quality
 - **Hypothesis**: "LinkedIn ads attract higher-value customers than Facebook"
 - **Experiment**: Equal budget allocation across channels untuk 3 months
@@ -224,7 +224,7 @@ You don't need lab coat untuk apply scientific thinking:
 
 ---
 
-## Digital Age: Scientific Method at Scale
+## Era Digital: Scientific Method at Scale
 
 ### A/B Testing Revolution
 Companies now run hundreds of experiments simultaneously:
@@ -261,7 +261,7 @@ Pons dan Fleischmann announced nuclear fusion at room temperature tapi:
 - Didn't wait untuk peer review before press conference
 - Provided insufficient detail untuk replication
 - Other labs couldn't reproduce results
-- **Lesson**: Extraordinary claims require extraordinary evidence dan rigorous verification
+- **Pelajaran**: Extraordinary claims require extraordinary evidence dan rigorous verification
 
 ### MMR Vaccine Autism Study
 Andrew Wakefield published study linking vaccines to autism:
@@ -271,7 +271,7 @@ Andrew Wakefield published study linking vaccines to autism:
 - **Unreplicable**: Dozens of studies dengan millions of children found no link
 - **Consequence**: Vaccine hesitancy dan preventable disease outbreaks
 
-**Lesson**: Even published research can be wrong. Replication dan larger studies are essential.
+**Pelajaran**: Even published research can be wrong. Replication dan larger studies are essential.
 
 ---
 
@@ -291,7 +291,7 @@ Science can inform policy but can't determine values. **"What should we do?"** r
 
 ---
 
-## Building Scientific Thinking: Practical Framework
+## Building Scientific Thinking: Practical Kerangka
 
 ### Daily Practice
 1. **Question assumptions**: "How do I know this is true?"
@@ -307,7 +307,7 @@ Science can inform policy but can't determine values. **"What should we do?"** r
 4. **Plan analysis**: Statistical approach determined before data collection
 5. **Share negative results**: Learn dari what doesn't work
 
-### Decision Making Framework
+### Decision Making Kerangka
 1. **What's my hypothesis** tentang what will happen?
 2. **How can I test** this dengan minimal risk?
 3. **What data** will I collect to measure success?

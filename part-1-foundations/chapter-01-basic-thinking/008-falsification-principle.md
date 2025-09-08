@@ -31,7 +31,7 @@ Inilah yang Popper sebut **falsification principle**: teori ilmiah harus bisa di
 
 **Problem of Induction**: Dari observasi khusus, kita tidak bisa deduce universal law dengan certainty. No matter berapa banyak supporting cases, ada kemungkinan counterexample yang belum ditemukan.
 
-**Example**: "All metals expand when heated"
+**Contoh**: "All metals expand when heated"
 - ✓ Iron expands when heated
 - ✓ Copper expands when heated  
 - ✓ Gold expands when heated
@@ -118,7 +118,7 @@ Before Popper, **Vienna Circle** philosophers believed science progresses throug
 
 **Theories remain provisional** tapi gain strength through surviving rigorous attempts to disprove them.
 
-### Medicine: Evidence-Based Practice
+### Medicine: Bukti-Based Practice
 
 **Randomized Controlled Trials (RCTs)** embody falsification principle:
 
@@ -144,14 +144,14 @@ Psychology faced **replication crisis** karena many studies were:
 
 ---
 
-## Business Applications: Falsifiable Strategy
+## Business Applications: Falsifiable Strategi
 
 ### Startup Hypotheses
 
 **Traditional business planning**: Create detailed projections based on assumptions
 **Lean startup approach**: Form falsifiable hypotheses dan test them quickly
 
-**Example hypothesis**: "Small business owners will pay $50/month untuk our accounting software"
+**Contoh hypothesis**: "Small business owners will pay $50/month untuk our accounting software"
 
 **Falsification test**: 
 - Build MVP dengan core features
@@ -172,7 +172,7 @@ Psychology faced **replication crisis** karena many studies were:
 
 **Non-falsifiable alternative**: "Users want social features" (too vague untuk test definitively)
 
-### Marketing Strategy
+### Marketing Strategi
 
 **Falsifiable claim**: "LinkedIn ads generate higher-quality leads than Google Ads untuk our B2B service"
 
@@ -181,13 +181,13 @@ Psychology faced **replication crisis** karena many studies were:
 - Track lead quality metrics (conversion rate, deal size, close rate)
 - **Compare ROI statistically**
 
-**Result**: Either falsify claim (Google performs better) atau tentatively retain (LinkedIn performs better).
+**Hasil**: Either falsify claim (Google performs better) atau tentatively retain (LinkedIn performs better).
 
 ---
 
 ## Investment: Falsifying Market Hypotheses
 
-### Value Investing Example
+### Value Investing Contoh
 
 **Hypothesis**: "Stocks dengan P/E ratios below 10 outperform market över 5-year periods"
 
@@ -214,7 +214,7 @@ Psychology faced **replication crisis** karena many studies were:
 
 ---
 
-## Digital Age: A/B Testing as Falsification
+## Era Digital: A/B Testing as Falsification
 
 ### Web Optimization
 
@@ -254,7 +254,7 @@ Psychology faced **replication crisis** karena many studies were:
 
 **In practice, theories are tested in bundles.** When experiment fails, what exactly is falsified?
 
-**Example**: Experiment untuk test new drug fails
+**Contoh**: Experiment untuk test new drug fails
 - Drug doesn't work?
 - Dosage wrong?  
 - Patient selection flawed?
@@ -267,7 +267,7 @@ Psychology faced **replication crisis** karena many studies were:
 
 **Every test requires auxiliary assumptions** tentang instruments, methods, background theories.
 
-**Example**: Measuring speed of light
+**Contoh**: Measuring speed of light
 - Assume clocks work accurately
 - Assume light travels in straight lines
 - Assume measurement instruments calibrated correctly
@@ -350,7 +350,7 @@ Psychology faced **replication crisis** karena many studies were:
 
 ---
 
-## Building Falsifiable Thinking: Practical Framework
+## Building Falsifiable Thinking: Practical Kerangka
 
 ### Daily Decision Making
 
@@ -402,7 +402,7 @@ Psychology faced **replication crisis** karena many studies were:
 **Before falsificationism**: Scientists accumulated supporting evidence indefinitely
 **After falsificationism**: Scientists actively hunt untuk disconfirming evidence
 
-**Result**: Faster elimination of wrong theories, quicker scientific progress
+**Hasil**: Faster elimination of wrong theories, quicker scientific progress
 
 ### Quality Control untuk Claims
 

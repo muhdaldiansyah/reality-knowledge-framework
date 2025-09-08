@@ -1,132 +1,132 @@
 # Bab 1: Basic Thinking
 
-### Bagian 10: Intellectual Humility
+### Bagian 10: Kerendahan Hati Intelektual
 
-Pada tahun 1922, Albert Einstein menerima Nobel Prize untuk menjelaskan photoelectric effect—bukan untuk Theory of Relativity yang membuatnya terkenal. Dalam speech penerimaan, instead of celebrating genius-nya, Einstein said something unexpected:
+Pada tahun 1922, Albert Einstein menerima Hadiah Nobel untuk menjelaskan efek fotoelektrik—bukan untuk Teori Relativitas yang membuatnya terkenal. Dalam pidato penerimaan, alih-alih merayakan kejeniusannya, Einstein mengatakan sesuatu yang tidak terduga:
 
-**"The most beautiful experience we can have is the mysterious. It is the fundamental emotion that stands at the cradle of true science."**
+**"Pengalaman terindah yang bisa kita miliki adalah misteri. Ini adalah emosi fundamental yang berdiri di buaian sains sejati."**
 
-Saat itulah Einstein berada di puncak fame ilmiah. Media menyebutnya "greatest genius of all time." Tapi privately, dia terus mengekspresikan doubt dan uncertainty tentang nature of reality.
+Saat itulah Einstein berada di puncak ketenaran ilmiah. Media menyebutnya "jenius terbesar sepanjang masa." Tapi secara pribadi, dia terus mengekspresikan keraguan dan ketidakpastian tentang hakikat realitas.
 
-Dalam letter kepada teman, Einstein wrote: **"The more I learn, the more I realize how little I know."**
+Dalam surat kepada temannya, Einstein menulis: **"Semakin banyak saya belajar, semakin saya sadar betapa sedikitnya yang saya ketahui."**
 
-Fast forward to 1955, menjelang akhir hidupnya. Einstein ditanya apakah dia menyesal dengan decisions dalam hidupnya. Jawabnya mengejutkan:
+Melompat ke tahun 1955, menjelang akhir hidupnya. Einstein ditanya apakah dia menyesal dengan keputusan-keputusan dalam hidupnya. Jawabnya mengejutkan:
 
-**"I made one great mistake dalam my life... I should have chosen to be a plumber."**
+**"Saya membuat satu kesalahan besar dalam hidup saya... Saya seharusnya memilih menjadi tukang ledeng."**
 
-Ketika ditanya why, Einstein explained bahwa complexity of universe jauh melampaui kemampuan human comprehension. **Even dengan semua discoveries-nya, dia merasa barely scratched the surface of reality.**
+Ketika ditanya mengapa, Einstein menjelaskan bahwa kompleksitas alam semesta jauh melampaui kemampuan pemahaman manusia. **Bahkan dengan semua penemuannya, dia merasa baru sedikit menggores permukaan realitas.**
 
-**This is intellectual humility**: the recognition that our knowledge is limited, our reasoning is fallible, dan reality is more complex than we can fully grasp.
-
----
-
-## The Paradox of Expertise
-
-**Intellectual humility** creates profound paradox: **the more we truly understand, the more we realize we don't understand.**
-
-### The Four Stages of Competence
-
-**Stage 1: Unconscious Incompetence**
-- "I don't know that I don't know"
-- High confidence, low competence
-- **Dunning-Kruger effect** dominates
-
-**Stage 2: Conscious Incompetence**  
-- "I know that I don't know"
-- **Confidence drops dramatically**
-- Beginning of intellectual humility
-
-**Stage 3: Conscious Competence**
-- "I know, dan I know that I know"
-- Competence high, confidence realistic
-- **Peak intellectual humility**
-
-**Stage 4: Unconscious Competence**
-- "I know, but I don't think about knowing"
-- **Risk of overconfidence returning**
-- Expertise can breed arrogance
-
-**True intellectual humility peaks di Stage 3** dan must be consciously maintained dalam Stage 4.
+**Inilah kerendahan hati intelektual**: pengakuan bahwa pengetahuan kita terbatas, penalaran kita bisa salah, dan realitas lebih kompleks dari yang bisa kita pahami sepenuhnya.
 
 ---
 
-## What Intellectual Humility Looks Like
+## Paradoks Keahlian
 
-### Epistemic Humility: Limits of Knowledge
+**Kerendahan hati intelektual** menciptakan paradoks mendalam: **semakin kita benar-benar memahami, semakin kita sadar bahwa kita tidak memahami.**
 
-**Recognizing boundaries**:
-- "I might be wrong about this"
-- "My understanding is incomplete"  
-- "There are things I don't even know that I don't know"
-- **"The evidence could change my mind"**
+### Empat Tahap Kompetensi
 
-**Not relativism** ("all opinions equal") but **probabilistic thinking** ("some views more likely true than others, but certainty is rare").
+**Tahap 1: Ketidakmampuan Tidak Sadar**
+- "Saya tidak tahu bahwa saya tidak tahu"
+- Kepercayaan diri tinggi, kompetensi rendah
+- **Efek Dunning-Kruger** mendominasi
 
-### Cognitive Humility: Limits of Reasoning
+**Tahap 2: Ketidakmampuan Sadar**  
+- "Saya tahu bahwa saya tidak tahu"
+- **Kepercayaan diri turun drastis**
+- Awal dari kerendahan hati intelektual
 
-**Acknowledging fallibility**:
-- "My reasoning might be flawed"
-- "I could be missing important factors"
-- "My biases might be affecting my judgment"
-- **"Other perspectives might reveal blind spots"**
+**Tahap 3: Kemampuan Sadar**
+- "Saya tahu, dan saya tahu bahwa saya tahu"
+- Kompetensi tinggi, kepercayaan diri realistis
+- **Puncak kerendahan hati intelektual**
 
-### Social Humility: Learning dari Others
+**Tahap 4: Kemampuan Tidak Sadar**
+- "Saya tahu, tapi saya tidak memikirkan tentang mengetahui"
+- **Risiko kepercayaan diri berlebih kembali**
+- Keahlian bisa melahirkan arogansi
 
-**Openness to correction**:
-- "Others might know something I don't"
-- "Criticism can help me improve"
-- "Experts dalam other fields have valuable insights"
-- **"I benefit dari diverse perspectives"**
-
----
-
-## The Neuroscience: Why Humility Is Hard
-
-### Cognitive Dissonance Avoidance
-
-**Brain resists information** yang challenges existing beliefs:
-- **Confirmation bias**: Seek supporting evidence
-- **Motivated reasoning**: Rationalize away contradictions
-- **Backfire effect**: Contrary evidence sometimes strengthens wrong beliefs
-
-**Intellectual humility requires fighting** these natural tendencies.
-
-### Status dan Identity Protection
-
-**Being wrong threatens**:
-- Social status ("I'm supposed to be expert")
-- Personal identity ("I'm smart person")  
-- Professional reputation ("My credibility is at stake")
-- **Emotional comfort** ("Uncertainty is uncomfortable")
-
-**Admitting ignorance feels risky**, even when it's actually strength.
-
-### Overconfidence Bias
-
-**Psychological research shows**:
-- 93% of drivers think they're above average
-- 87% of MBA students rank themselves dalam top half of class
-- **Experts overestimate accuracy** of their predictions
-
-**Default setting adalah overconfidence**. Humility requires conscious effort.
+**Kerendahan hati intelektual sejati mencapai puncaknya di Tahap 3** dan harus dipertahankan secara sadar dalam Tahap 4.
 
 ---
 
-## Historical Examples: When Humility Led to Breakthroughs
+## Seperti Apa Kerendahan Hati Intelektual Itu
 
-### Darwin's Cautious Revolution
+### Kerendahan Hati Epistemik: Batas Pengetahuan
 
-**Darwin spent 20 years** developing theory of evolution before publishing. Why so long?
+**Mengenali batasan**:
+- "Saya mungkin salah tentang ini"
+- "Pemahaman saya tidak lengkap"  
+- "Ada hal-hal yang saya bahkan tidak tahu bahwa saya tidak tahu"
+- **"Bukti bisa mengubah pikiran saya"**
 
-**Intellectual humility drove thoroughness**:
-- Collected overwhelming evidence
-- Anticipated counterarguments  
-- **Acknowledged limitations** of his theory
-- Remained open to criticism
+**Bukan relativisme** ("semua opini sama") tetapi **pemikiran probabilistik** ("beberapa pandangan lebih mungkin benar daripada yang lain, tetapi kepastian itu langka").
 
-**Result**: Theory survived because Darwin was humble enough to make it bulletproof.
+### Kerendahan Hati Kognitif: Batas Penalaran
 
-### The Double Helix: Collaborative Humility
+**Mengakui kemungkinan salah**:
+- "Penalaran saya mungkin cacat"
+- "Saya bisa melewatkan faktor-faktor penting"
+- "Bias saya mungkin mempengaruhi penilaian saya"
+- **"Perspektif lain mungkin mengungkap titik buta"**
+
+### Kerendahan Hati Sosial: Belajar dari Orang Lain
+
+**Keterbukaan terhadap koreksi**:
+- "Orang lain mungkin tahu sesuatu yang saya tidak tahu"
+- "Kritik bisa membantu saya berkembang"
+- "Para ahli di bidang lain memiliki wawasan berharga"
+- **"Saya mendapat manfaat dari perspektif yang beragam"**
+
+---
+
+## Neurosains: Mengapa Kerendahan Hati Itu Sulit
+
+### Menghindari Disonansi Kognitif
+
+**Otak menolak informasi** yang menantang keyakinan yang ada:
+- **Bias konfirmasi**: Mencari bukti pendukung
+- **Penalaran bermotivasi**: Merasionalisasi kontradiksi
+- **Efek bumerang**: Bukti yang bertentangan terkadang memperkuat keyakinan yang salah
+
+**Kerendahan hati intelektual memerlukan perlawanan** terhadap kecenderungan alami ini.
+
+### Perlindungan Status dan Identitas
+
+**Menjadi salah mengancam**:
+- Status sosial ("Saya seharusnya menjadi ahli")
+- Identitas pribadi ("Saya orang yang pintar")  
+- Reputasi profesional ("Kredibilitas saya dipertaruhkan")
+- **Kenyamanan emosional** ("Ketidakpastian itu tidak nyaman")
+
+**Mengakui ketidaktahuan terasa berisiko**, meskipun sebenarnya itu adalah kekuatan.
+
+### Bias Kepercayaan Diri Berlebih
+
+**Penelitian psikologi menunjukkan**:
+- 93% pengemudi menganggap diri mereka di atas rata-rata
+- 87% mahasiswa MBA menempatkan diri dalam separuh teratas kelas
+- **Para ahli melebih-lebihkan akurasi** prediksi mereka
+
+**Pengaturan bawaan adalah kepercayaan diri berlebih**. Kerendahan hati memerlukan upaya sadar.
+
+---
+
+## Contoh Sejarah: Ketika Kerendahan Hati Membawa Terobosan
+
+### Revolusi Hati-hati Darwin
+
+**Darwin menghabiskan 20 tahun** mengembangkan teori evolusi sebelum menerbitkannya. Mengapa begitu lama?
+
+**Kerendahan hati intelektual mendorong ketelitian**:
+- Mengumpulkan bukti yang luar biasa banyak
+- Mengantisipasi argumen tandingan  
+- **Mengakui keterbatasan** teorinya
+- Tetap terbuka terhadap kritik
+
+**Hasil**: Teorinya bertahan karena Darwin cukup rendah hati untuk membuatnya tidak terbantahkan.
+
+### Heliks Ganda: Kerendahan Hati Kolaboratif
 
 **Watson dan Crick** discovered DNA structure, but they **acknowledged contributions** dari:
 - Rosalind Franklin's X-ray crystallography  
@@ -135,7 +135,7 @@ Ketika ditanya why, Einstein explained bahwa complexity of universe jauh melampa
 
 **Scientific progress** depends on building dari others' work dan **acknowledging intellectual debt**.
 
-### Feynman's "I Don't Know"
+### "Saya Tidak Tahu" ala Feynman
 
 **Richard Feynman**, Nobel Prize winner, famously said:
 - **"I would rather have questions that can't be answered than answers that can't be questioned"**
@@ -146,9 +146,9 @@ Ketika ditanya why, Einstein explained bahwa complexity of universe jauh melampa
 
 ---
 
-## Intellectual Humility dalam Modern Science
+## Kerendahan Hati Intelektual dalam Sains Modern
 
-### Replication Crisis: Humility in Action
+### Krisis Replikasi: Kerendahan Hati dalam Tindakan
 
 **Psychology dan medicine** faced crisis when many "established" findings couldn't be replicated.
 
@@ -158,7 +158,7 @@ Ketika ditanya why, Einstein explained bahwa complexity of universe jauh melampa
 - **Embrace negative results** as valuable information
 - **Update beliefs** based on better evidence
 
-### Climate Science: Communicating Uncertainty
+### Sains Iklim: Mengkomunikasikan Ketidakpastian
 
 **Climate scientists** demonstrate intellectual humility by:
 - **Acknowledging uncertainties** dalam models
@@ -168,7 +168,7 @@ Ketika ditanya why, Einstein explained bahwa complexity of universe jauh melampa
 
 **This honesty** actually strengthens credibility, tidak weakens it.
 
-### Medical Research: The Cochrane Reviews
+### Penelitian Medis: Tinjauan Cochrane
 
 **Cochrane Collaboration** embodies institutional intellectual humility:
 - **Systematic review** of all available evidence
@@ -178,9 +178,9 @@ Ketika ditanya why, Einstein explained bahwa complexity of universe jauh melampa
 
 ---
 
-## Business Applications: Humility as Competitive Advantage
+## Aplikasi Bisnis: Kerendahan Hati sebagai Keunggulan Kompetitif
 
-### Jeff Bezos dan "Day 1" Mentality
+### Jeff Bezos dan Mentalitas "Hari Pertama"
 
 **Amazon's Jeff Bezos** cultivated intellectual humility through "Day 1" thinking:
 - **"Day 1"**: Startup mentality, everything experimental
@@ -189,7 +189,7 @@ Ketika ditanya why, Einstein explained bahwa complexity of universe jauh melampa
 
 **This humility drove continuous innovation** dan adaptation.
 
-### Ray Dalio's "Radical Transparency"
+### "Transparansi Radikal" Ray Dalio
 
 **Bridgewater Associates** built culture around intellectual humility:
 - **Encourage criticism** of all ideas, including CEO's
@@ -197,9 +197,9 @@ Ketika ditanya why, Einstein explained bahwa complexity of universe jauh melampa
 - **Systematic mistake analysis**: Learn dari errors instead of hiding them
 - **"Being wrong is not a bad thing"**: Mistakes are learning opportunities
 
-**Result**: One of world's most successful hedge funds.
+**Hasil**: One of world's most successful hedge funds.
 
-### Lean Startup: Validated Learning
+### Lean Startup: Pembelajaran Tervalidasi
 
 **Eric Ries's Lean Startup** methodology based on intellectual humility:
 - **Start dengan "we don't know"** what customers want
@@ -209,9 +209,9 @@ Ketika ditanya why, Einstein explained bahwa complexity of universe jauh melampa
 
 ---
 
-## Intellectual Humility dalam Leadership
+## Kerendahan Hati Intelektual dalam Kepemimpinan
 
-### Admitting Mistakes Builds Trust
+### Mengakui Kesalahan Membangun Kepercayaan
 
 **Research shows** leaders who admit mistakes:
 - **Increase psychological safety** dalam teams
@@ -219,15 +219,15 @@ Ketika ditanya why, Einstein explained bahwa complexity of universe jauh melampa
 - **Improve decision quality** (more diverse input)
 - **Build stronger relationships** (authenticity attracts people)
 
-### Example: Satya Nadella's Microsoft Transformation
+### Contoh: Transformasi Microsoft oleh Satya Nadella
 
 **When Nadella became Microsoft CEO**:
 - **Admitted company's mobile strategy failed**
 - **Acknowledged Google dan Amazon's cloud leadership**  
 - **Changed company culture** dari "know-it-all" to "learn-it-all"
-- **Result**: Microsoft stock price increased 5x during his tenure
+- **Hasil**: Microsoft stock price increased 5x during his tenure
 
-### Creating Learning Organizations
+### Menciptakan Organisasi Pembelajar
 
 **Humble leaders** build organizations that:
 - **Encourage questions** dan challenges to status quo
@@ -237,9 +237,9 @@ Ketika ditanya why, Einstein explained bahwa complexity of universe jauh melampa
 
 ---
 
-## Personal Benefits: Why Humility Makes You Stronger
+## Manfaat Pribadi: Mengapa Kerendahan Hati Membuat Anda Lebih Kuat
 
-### Better Learning dan Growth
+### Pembelajaran dan Pertumbuhan yang Lebih Baik
 
 **Intellectual humility accelerates learning**:
 - **Open to feedback**: Don't dismiss criticism defensively
@@ -247,7 +247,7 @@ Ketika ditanya why, Einstein explained bahwa complexity of universe jauh melampa
 - **Seek challenging information**: Don't avoid uncomfortable truths
 - **Update beliefs efficiently**: Change mind when evidence warrants
 
-### Improved Relationships
+### Hubungan yang Lebih Baik
 
 **Humble people are more likable**:
 - **Less threatening**: Don't make others feel stupid
@@ -255,7 +255,7 @@ Ketika ditanya why, Einstein explained bahwa complexity of universe jauh melampa
 - **More trustworthy**: Admit when they don't know something
 - **Easier to work with**: Flexible dan collaborative
 
-### Reduced Stress dan Anxiety
+### Mengurangi Stres dan Kecemasan
 
 **Intellectual humility reduces pressure**:
 - **Don't need to have all answers**: Comfortable dengan uncertainty
@@ -265,9 +265,9 @@ Ketika ditanya why, Einstein explained bahwa complexity of universe jauh melampa
 
 ---
 
-## The Dark Side: When Humility Goes Wrong
+## Sisi Gelap: Ketika Kerendahan Hati Salah Arah
 
-### False Humility
+### Kerendahan Hati Palsu
 
 **Performative humility** untuk social advantage:
 - "I'm probably wrong, but..." (then argue dogmatically)  
@@ -276,7 +276,7 @@ Ketika ditanya why, Einstein explained bahwa complexity of universe jauh melampa
 
 **Real humility** is about truth-seeking, not impression management.
 
-### Paralyzing Uncertainty
+### Ketidakpastian yang Melumpuhkan
 
 **Excessive humility** can lead to:
 - **Analysis paralysis**: Never confident enough to act
@@ -285,7 +285,7 @@ Ketika ditanya why, Einstein explained bahwa complexity of universe jauh melampa
 
 **Healthy humility** balances uncertainty dengan necessity of action.
 
-### Intellectual Abdication
+### Pengabaian Intelektual
 
 **"I don't know anything"** can become:
 - **Excuse untuk not learning**: "It's all too complex"
@@ -296,9 +296,9 @@ Ketika ditanya why, Einstein explained bahwa complexity of universe jauh melampa
 
 ---
 
-## Cultivating Intellectual Humility: Practical Strategies
+## Menumbuhkan Kerendahan Hati Intelektual: Strategi Praktis
 
-### Daily Practices
+### Praktik Harian
 
 **1. Question Your Certainty**
 - Before making strong claims, ask: "How confident am I really?"
@@ -320,7 +320,7 @@ Ketika ditanya why, Einstein explained bahwa complexity of universe jauh melampa
 - **Analyze patterns**: What types of mistakes do you make repeatedly?
 - **Share failures**: Talk about mistakes dengan others
 
-### Social Strategies
+### Strategi Sosial
 
 **5. Surround Yourself dengan Smart Critics**
 - **Seek out people** who disagree dengan you respectfully
@@ -337,7 +337,7 @@ Ketika ditanya why, Einstein explained bahwa complexity of universe jauh melampa
 - **Follow experts** dalam fields outside your expertise  
 - **Engage dengan people** dari different backgrounds
 
-### Professional Development
+### Pengembangan Profesional
 
 **8. Implement Red Team Exercises**
 - **Assign someone** to argue against your proposals
@@ -356,9 +356,9 @@ Ketika ditanya why, Einstein explained bahwa complexity of universe jauh melampa
 
 ---
 
-## Intellectual Humility dalam Digital Age
+## Kerendahan Hati Intelektual dalam Era Digital
 
-### Information Overload Challenge
+### Tantangan Kelebihan Informasi
 
 **Internet provides access** to vast information, but:
 - **More information ≠ more knowledge**
@@ -370,7 +370,7 @@ Ketika ditanya why, Einstein explained bahwa complexity of universe jauh melampa
 - **Seek expert consensus** rather than cherry-picked studies  
 - **Be skeptical** of your own Google research
 
-### Social Media dan Echo Chambers
+### Media Sosial dan Ruang Gema
 
 **Algorithms show us** what we want to hear:
 - **Confirmation bias** amplified by technology
@@ -382,7 +382,7 @@ Ketika ditanya why, Einstein explained bahwa complexity of universe jauh melampa
 - **Question your timeline**: Is this representative of reality?
 - **Engage respectfully** dengan people who disagree
 
-### AI dan Expert Systems
+### AI dan Sistem Pakar
 
 **As AI becomes more capable**:
 - **Human expertise** dalam many domains will become obsolete
@@ -391,9 +391,9 @@ Ketika ditanya why, Einstein explained bahwa complexity of universe jauh melampa
 
 ---
 
-## The Future: Institutional Intellectual Humility
+## Masa Depan: Kerendahan Hati Intelektual Institusional
 
-### Education System Reform
+### Reformasi Sistem Pendidikan
 
 **Current education** rewards:
 - **Right answers** over good questions
@@ -406,7 +406,7 @@ Ketika ditanya why, Einstein explained bahwa complexity of universe jauh melampa
 - **Comfort dengan uncertainty**
 - **Critical thinking** about sources dan evidence
 
-### Political dan Policy-Making
+### Politik dan Pembuatan Kebijakan
 
 **Democracy requires** intellectually humble citizens who:
 - **Change minds** based on evidence
@@ -414,7 +414,7 @@ Ketika ditanya why, Einstein explained bahwa complexity of universe jauh melampa
 - **Respect expertise** while maintaining skepticism
 - **Engage respectfully** dengan political opponents
 
-### Scientific dan Technical Progress
+### Kemajuan Ilmiah dan Teknis
 
 **Future breakthroughs** will likely come dari:
 - **Interdisciplinary collaboration** (requires humility about disciplinary limits)
@@ -423,7 +423,7 @@ Ketika ditanya why, Einstein explained bahwa complexity of universe jauh melampa
 
 ---
 
-## Why This Matters: The Metacognitive Revolution
+## Mengapa Ini Penting: Revolusi Metakognitif
 
 **Intellectual humility** is ultimately about **thinking about thinking**:
 - **How do I know what I know?**
@@ -439,7 +439,7 @@ Ketika ditanya why, Einstein explained bahwa complexity of universe jauh melampa
 
 ---
 
-## The Paradox of Confident Humility
+## Paradoks Kerendahan Hati yang Percaya Diri
 
 **Intellectual humility** doesn't mean weakness atau indecision. **It means being confident dalam your ability to learn, adapt, dan improve.**
 
@@ -451,7 +451,7 @@ Ketika ditanya why, Einstein explained bahwa complexity of universe jauh melampa
 
 ---
 
-## Latihan Praktis: Building Your Intellectual Humility Muscle
+## Latihan Praktis: Membangun Otot Kerendahan Hati Intelektual Anda
 
 **This week, practice intellectual humility:**
 

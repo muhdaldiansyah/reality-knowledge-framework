@@ -122,7 +122,7 @@ Ketika interviewer sudah lihat resume, mereka ter-anchor pada credentials dan pe
 
 ---
 
-## Digital Age: Algorithmic Anchoring
+## Era Digital: Anchoring Algoritmik
 
 ### Search Results Anchoring
 Google search results meng-anchor persepsi kita. Artikel pertama yang muncul mendapat disproportionate trust dan attention, meskipun mungkin tidak paling accurate atau comprehensive.
@@ -157,7 +157,7 @@ Tanyakan: "Bagaimana angka ini dibanding 5-10 tahun lalu?" Historical context bi
 
 ---
 
-## Case Study: Anchoring dalam COVID-19 Response
+## Studi Kasus: Anchoring dalam Respons COVID-19
 
 Pandemi COVID-19 memberikan masterclass tentang anchoring bias dalam policy-making:
 
@@ -173,7 +173,7 @@ Pfizer announcement 95% efficacy meng-anchor ekspektasi untuk semua vaksin. Vaks
 ### Economic Projections
 Initial economic forecast tentang recession depth meng-anchor fiscal response. Over-optimistic anchor menghasilkan under-preparation; over-pessimistic anchor menghasilkan over-reaction.
 
-**Lesson**: In crisis, first estimates become powerful anchors yang sulit direvisi, bahkan ketika new data available.
+**Pelajaran**: In crisis, first estimates become powerful anchors yang sulit direvisi, bahkan ketika new data available.
 
 ---
 

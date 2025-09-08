@@ -114,12 +114,12 @@ Instead of proving something works, **null hypothesis forces us to disprove that
 
 **Only after rejecting null hypotheses at each stage** does drug get approved.
 
-### Example: COVID-19 Vaccine Trials
+### Contoh: COVID-19 Vaccine Trials
 
 **Pfizer vaccine trial**:
 - **Null hypothesis**: "Vaccine provides no protection against COVID-19"
 - **Sample**: 43,548 participants
-- **Result**: 8 COVID cases dalam vaccine group vs 162 dalam placebo group
+- **Hasil**: 8 COVID cases dalam vaccine group vs 162 dalam placebo group
 - **P-value**: < 0.001 (less than 0.1% chance this difference due to random variation)
 - **Conclusion**: Reject null → Vaccine effective
 
@@ -141,7 +141,7 @@ Instead of proving something works, **null hypothesis forces us to disprove that
 
 **Null hypothesis framework** transformed how companies make decisions:
 
-**Example**: E-commerce site testing checkout process
+**Contoh**: E-commerce site testing checkout process
 - **Null**: "New checkout process has same conversion rate as current process"
 - **Alternative**: "New checkout process has different conversion rate"
 
@@ -172,7 +172,7 @@ Instead of proving something works, **null hypothesis forces us to disprove that
 
 ## Investment: Null Hypothesis sebagai Risk Management
 
-### Strategy Backtesting
+### Strategi Backtesting
 
 **Investment strategy**: "Buying stocks dengan high dividend yields generates superior returns"
 **Null hypothesis**: "High dividend strategy performs no better than market index"
@@ -189,7 +189,7 @@ Instead of proving something works, **null hypothesis forces us to disprove that
 
 **Smart beta strategies** tested against null:
 - **Null**: "Factor portfolio performance equals market cap weighted index"
-- **Evidence needed**: Statistically significant outperformance after adjusting untuk risk
+- **Bukti needed**: Statistically significant outperformance after adjusting untuk risk
 
 **Many "factors" fail null hypothesis testing** over long periods, despite short-term apparent success.
 
@@ -275,20 +275,20 @@ Instead of proving something works, **null hypothesis forces us to disprove that
 
 ### Statistical Significance ≠ Practical Significance
 
-**Example**: Large sample study finds "statistically significant" 0.1% improvement dalam conversion rate.
+**Contoh**: Large sample study finds "statistically significant" 0.1% improvement dalam conversion rate.
 - **Null hypothesis rejected** (p < 0.05)
 - **Practical impact**: Minimal business value
 
 **Always consider effect size** along dengan statistical significance.
 
-### Absence of Evidence ≠ Evidence of Absence
+### Absence of Bukti ≠ Bukti of Absence
 
 **Failing to reject null doesn't prove null is true**
 - Maybe effect exists but study underpowered
 - Maybe wrong outcome measured
 - Maybe effect too small for current methods
 
-**Example**: "We found no evidence that meditation reduces stress" ≠ "Meditation definitely doesn't reduce stress"
+**Contoh**: "We found no evidence that meditation reduces stress" ≠ "Meditation definitely doesn't reduce stress"
 
 ---
 
@@ -325,7 +325,7 @@ Instead of proving something works, **null hypothesis forces us to disprove that
 
 ---
 
-## Digital Age: Null Hypothesis at Scale
+## Era Digital: Null Hypothesis at Scale
 
 ### Machine Learning Validation
 
@@ -402,9 +402,9 @@ Instead of proving something works, **null hypothesis forces us to disprove that
 
 ---
 
-## Building Null Hypothesis Thinking: Practical Framework
+## Building Null Hypothesis Thinking: Practical Kerangka
 
-### Daily Decision Framework
+### Daily Decision Kerangka
 
 1. **State assumption**: "This action will have no effect"
 2. **Define metrics**: How will you measure impact?

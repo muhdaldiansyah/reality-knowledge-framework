@@ -193,7 +193,7 @@ Untuk evaluate apakah Anda might be experiencing Dunning-Kruger di domain terten
 
 ---
 
-## Case Study: Dunning-Kruger dalam COVID-19
+## Studi Kasus: Dunning-Kruger dalam COVID-19
 
 Pandemi memberikan real-time case study tentang mass Dunning-Kruger Effect:
 

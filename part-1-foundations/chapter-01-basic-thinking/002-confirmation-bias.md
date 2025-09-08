@@ -118,13 +118,13 @@ Contoh:
 ### 3. **Pre-mortem Analysis**
 Sebelum membuat keputusan besar, bayangkan keputusan itu gagal. Apa saja yang bisa salah? Kenapa bias kita bisa mengaburkan penilaian?
 
-### 4. **Seek Disconfirming Evidence**
-Aktif cari informasi yang menentang keyakinan Anda. Buat Google search yang berlawanan dengan bias Anda.
+### 4. **Cari Bukti yang Bertentangan**
+Aktif cari informasi yang menentang keyakinan Anda. Buat pencarian Google yang berlawanan dengan bias Anda.
 
 Jika Anda percaya kopi sehat, cari "bahaya kopi" atau "efek negatif kafein."
 
-### 5. **Red Team Blue Team**
-Dalam pengambilan keputusan penting, bentuk dua tim: satu yang mendukung keputusan (Blue Team), satu yang menentang (Red Team). Biarkan mereka debate dengan data.
+### 5. **Tim Merah Tim Biru**
+Dalam pengambilan keputusan penting, bentuk dua tim: satu yang mendukung keputusan (Tim Biru), satu yang menentang (Tim Merah). Biarkan mereka berdebat dengan data.
 
 ---
 
@@ -136,7 +136,7 @@ Di tempat kerja, confirmation bias bisa menjadi bencana:
 
 **Investment**: Investor terus menambah modal ke startup yang gagal karena tidak mau mengakui kesalahan awal (sunk cost fallacy + confirmation bias).
 
-**Strategy**: Tim eksekutif hanya mendengar feedback positif dari pelanggan, mengabaikan kritik.
+**Strategi**: Tim eksekutif hanya mendengar feedback positif dari pelanggan, mengabaikan kritik.
 
 **Solusi**: Institusionalisasi perspektif berlawanan—devil's advocate yang ditunjuk resmi, anonymous feedback system, dan reward untuk yang berani menantang status quo.
 
@@ -170,43 +170,43 @@ Anda mungkin tidak mengubah keyakinan, tapi Anda akan memegangnya dengan lebih b
 
 ---
 
-## Case Studies: When Confirmation Bias Shapes History
+## Studi Kasus: Ketika Bias Konfirmasi Membentuk Sejarah
 
-### Case Study 1: WMDs dalam Iraq War (2003)
+### Studi Kasus 1: Senjata Pemusnah Massal dalam Perang Irak (2003)
 
-**Intelligence Community** suffered massive confirmation bias dalam assessing Iraq's weapons of mass destruction:
+**Komunitas Intelijen** mengalami bias konfirmasi masif dalam menilai senjata pemusnah massal Irak:
 
-**The Setup**: Post-9/11 fear dan political pressure to find threats
-**Confirmation Bias dalam Action**:
-- **Selective evidence**: Emphasized ambiguous intelligence supporting WMD claims
-- **Dismissed contrary evidence**: Ignored weapons inspectors' negative findings
-- **Motivated reasoning**: Interpreted satellite photos as "proof" of chemical weapons facilities
-- **Groupthink reinforcement**: Dissenting voices marginalized dalam intelligence community
+**Latar Belakang**: Ketakutan pasca-9/11 dan tekanan politik untuk menemukan ancaman
+**Bias Konfirmasi dalam Tindakan**:
+- **Bukti selektif**: Menekankan intelijen ambigu yang mendukung klaim SPM
+- **Mengabaikan bukti bertentangan**: Mengabaikan temuan negatif inspektur senjata
+- **Penalaran bermotivasi**: Menginterpretasi foto satelit sebagai "bukti" fasilitas senjata kimia
+- **Penguatan pemikiran kelompok**: Suara-suara yang berbeda dipinggirkan dalam komunitas intelijen
 
-**Result**: $2 trillion war based pada faulty assumptions
-**Lesson**: **Even professional intelligence analysts are vulnerable** to confirmation bias under pressure
+**Hasil**: Perang $2 triliun berdasarkan asumsi yang salah
+**Pelajaran**: **Bahkan analis intelijen profesional rentan** terhadap bias konfirmasi di bawah tekanan
 
-### Case Study 2: Theranos dan Elizabeth Holmes
+### Studi Kasus 2: Theranos dan Elizabeth Holmes
 
-**How confirmation bias enabled billion-dollar fraud**:
+**Bagaimana bias konfirmasi memungkinkan penipuan miliaran dolar**:
 
-**Investor Level**:
+**Investor Tingkat**:
 - **Prestigious board members**: Henry Kissinger, George Shultz presence confirmed "this must be real"
 - **Media coverage**: Positive stories reinforced investment decisions
 - **Due diligence failure**: Looked untuk confirmatory evidence, avoided deeper technical scrutiny
 
-**Internal Level**:
+**Internal Tingkat**:
 - **Employees**: Those who raised concerns were fired atau marginalized
 - **Leadership**: Holmes believed her own narrative, ignored mounting technical failures
 - **Regulatory**: FDA relied on company's claims rather than independent verification
 
-**Media Level**:
+**Media Tingkat**:
 - **Success narrative**: "Female Steve Jobs" story too compelling to question deeply
 - **Access journalism**: Positive coverage in exchange untuk exclusive interviews
 
-**Lesson**: **Multiple layers of confirmation bias** can create systemic fraud enabling entire industries.
+**Pelajaran**: **Multiple layers of confirmation bias** can create systemic fraud enabling entire industries.
 
-### Case Study 3: 2008 Financial Crisis
+### Studi Kasus 3: 2008 Financial Crisis
 
 **Housing bubble powered by institutional confirmation bias**:
 
@@ -225,7 +225,7 @@ Anda mungkin tidak mengubah keyakinan, tapi Anda akan memegangnya dengan lebih b
 - **Captured agencies**: Staffed with former industry executives
 - **Ignored warnings**: Academic economists and internal dissent dismissed
 
-**Lesson**: **When entire systems have aligned confirmation biases**, catastrophic failures become inevitable.
+**Pelajaran**: **When entire systems have aligned confirmation biases**, catastrophic failures become inevitable.
 
 ---
 
@@ -236,7 +236,7 @@ Anda mungkin tidak mengubah keyakinan, tapi Anda akan memegangnya dengan lebih b
 **Pre-registration Movement**:
 - **Hypothesis registration**: Scientists submit predictions before data collection
 - **Analysis plan specification**: Statistical methods decided before seeing results
-- **Result**: Reduces HARKing (Hypothesizing After Results are Known)
+- **Hasil**: Reduces HARKing (Hypothesizing After Results are Known)
 
 **Replication Requirements**:
 - **Independent verification**: Other labs must reproduce findings
@@ -248,7 +248,7 @@ Anda mungkin tidak mengubah keyakinan, tapi Anda akan memegangnya dengan lebih b
 - **Shared methodology**: Both sides agree on methods before testing
 - **Winner-take-all outcomes**: Results determine which theory is supported
 
-### Business: Red Team/Blue Team Approaches
+### Bisnis: Pendekatan Tim Merah/Tim Biru
 
 **Amazon's "Disagree dan Commit"**:
 - **Encourage dissent**: Team members expected to challenge decisions
@@ -292,19 +292,19 @@ Anda mungkin tidak mengubah keyakinan, tapi Anda akan memegangnya dengan lebih b
 - **Shows agreeable content**: Posts that match your political views get prioritized
 - **Inflammatory content**: Anger dan outrage drive engagement, get amplified
 - **Filter bubble creation**: Gradually narrows information exposure
-- **Result**: **Political polarization accelerated** by algorithmic choices
+- **Hasil**: **Political polarization accelerated** by algorithmic choices
 
 **YouTube's Recommendation Engine**:
 - **Progressive extremism**: Algorithm recommends increasingly radical content
 - **Rabbit hole effect**: Normal searches lead to conspiracy theories
-- **Example**: Climate change video → climate skeptic videos → flat earth content
-- **Result**: **Radicalization through recommendation algorithms**
+- **Contoh**: Climate change video → climate skeptic videos → flat earth content
+- **Hasil**: **Radicalization through recommendation algorithms**
 
 **Google's Personalized Search**:
 - **Different results**: Same search query yields different results untuk different users
 - **Location bias**: Results skewed toward local perspectives
 - **History influence**: Past searches influence future results
-- **Result**: **Parallel information realities** for different users
+- **Hasil**: **Parallel information realities** for different users
 
 ### Social Proof Amplification
 
@@ -312,13 +312,13 @@ Anda mungkin tidak mengubah keyakinan, tapi Anda akan memegangnya dengan lebih b
 - **Follower selection**: People follow like-minded accounts
 - **Retweet patterns**: Information spreads within ideological communities
 - **Ratio dynamics**: Dissenting views get "ratioed" (negative response overwhelming)
-- **Result**: **False consensus** within each community
+- **Hasil**: **False consensus** within each community
 
 **Reddit Community Structure**:
 - **Subreddit isolation**: Communities become increasingly homogeneous
 - **Upvote/downvote**: Conforming opinions rise, dissenting ones buried
 - **Moderator bias**: Rules enforced to maintain community "standards"
-- **Result**: **Radicalization through community reinforcement**
+- **Hasil**: **Radicalization through community reinforcement**
 
 ### Information Warfare Exploitation
 
@@ -326,7 +326,7 @@ Anda mungkin tidak mengubah keyakinan, tapi Anda akan memegangnya dengan lebih b
 - **Confirmation bias targeting**: Foreign actors exploit existing divisions
 - **Amplify existing beliefs**: Don't create new conspiracies, amplify existing ones
 - **Both sides strategy**: Support extreme voices on all sides untuk increase polarization
-- **Result**: **Democracy undermined** through exploiting cognitive biases
+- **Hasil**: **Democracy undermined** through exploiting cognitive biases
 
 ---
 
@@ -364,7 +364,7 @@ Anda mungkin tidak mengubah keyakinan, tapi Anda akan memegangnya dengan lebih b
 ### Intelligence Community Reform
 
 **Post-Iraq WMD Reforms**:
-- **Red Team Analysis**: Professional devil's advocates dalam intelligence process
+- **Analisis Tim Merah**: Advokat iblis profesional dalam proses intelijen
 - **Alternative Analysis**: Systematic consideration of different interpretations
 - **Source protection**: Analysts insulated dari policy preferences
 
@@ -383,8 +383,8 @@ Anda mungkin tidak mengubah keyakinan, tapi Anda akan memegangnya dengan lebih b
 1. **Situation**: What happened?
 2. **Emotion**: How did you feel?
 3. **Automatic thoughts**: What immediately came to mind?
-4. **Evidence untuk**: What supports this thought?
-5. **Evidence against**: What contradicts this thought?
+4. **Bukti untuk**: What supports this thought?
+5. **Bukti against**: What contradicts this thought?
 6. **Balanced thinking**: What's more accurate perspective?
 
 **Socratic Self-Questioning**:
@@ -496,7 +496,7 @@ Anda mungkin tidak mengubah keyakinan, tapi Anda akan memegangnya dengan lebih b
 **Structured Decision-Making**:
 - **AI-assisted red teams**: Computer-generated arguments against proposals
 - **Systematic perspective inclusion**: Ensure all stakeholders represented
-- **Evidence weight optimization**: AI helps balance different types of evidence
+- **Bukti weight optimization**: AI helps balance different types of evidence
 
 ---
 

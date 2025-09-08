@@ -115,7 +115,7 @@ Post-9/11 security measures designed untuk detect terrorists, tapi base rate ter
 ### Predictive Policing Bias
 Algoritma predict "high-crime areas" berdasarkan past arrests, tapi ini ignore base rates dan create feedback loops. More police presence → more arrests → higher "predicted crime" → even more police presence.
 
-### DNA Evidence Misinterpretation
+### DNA Bukti Misinterpretation
 Juries sering misinterpret DNA match probabilities karena ignore base rates. **1 dalam 100,000 match** sounds conclusive, tapi if you test million people, you'll get 10 matches by chance alone.
 
 ---
@@ -154,7 +154,7 @@ Focus pada impressive projects atau prestigious company backgrounds, ignoring ba
 
 ## The Prosecutor's Fallacy: Legal System's Base-Rate Problem
 
-### Classic Example
+### Classic Contoh
 DNA evidence shows "1 dalam 1 million match probability." Prosecutor argues: "There's only 1 dalam 1 million chance defendant is innocent."
 
 **Fallacy**: Ignore base rate likelihood that any random person could be the perpetrator. In city dengan 1 million people, **you'd expect 1 random match even if defendant is innocent.**
@@ -162,12 +162,12 @@ DNA evidence shows "1 dalam 1 million match probability." Prosecutor argues: "Th
 ### Eyewitness Identification
 Focus pada witness confidence ("I'm 90% sure") while ignoring base rates untuk eyewitness accuracy (**eyewitness misidentification causes 75% of wrongful convictions**).
 
-### Statistical Evidence Misinterpretation
+### Statistical Bukti Misinterpretation
 Juries focus pada impressive-sounding statistics tanpa understanding base rates, leading to systematic biases dalam conviction rates.
 
 ---
 
-## Digital Age: Base-Rate Neglect Goes Viral
+## Era Digital: Base-Rate Neglect Goes Viral
 
 ### Social Media Outrage
 Viral stories about rare events (kidnapping, vaccine reactions, police misconduct) create perception these events are common, ignoring actual base rates. **Availability cascade amplifies base-rate neglect.**
@@ -207,7 +207,7 @@ Train yourself untuk think dalam frequencies ketimbang probabilities. "How often
 
 ---
 
-## Case Study: Base-Rate Neglect dalam COVID-19
+## Studi Kasus: Base-Rate Neglect dalam COVID-19
 
 ### Early Overreaction untuk Rare Complications
 Media focus pada rare severe cases dalam young, healthy individuals while ignoring base rates (severe COVID is predominantly elderly dengan comorbidities). Led to misproportionate fear dalam low-risk populations.
@@ -215,13 +215,13 @@ Media focus pada rare severe cases dalam young, healthy individuals while ignori
 ### Vaccine Side Effects Misperception
 Focus pada rare adverse events (blood clots, myocarditis) while ignoring base rates untuk these conditions in general population dan much higher rates dari COVID itself.
 
-### Testing Strategy Errors
+### Testing Strategi Errors
 Mass testing dalam low-prevalence populations generated many false positives, tapi public health officials focused pada test accuracy rather than base rate implications.
 
 ### School Closure Decisions
 Focus pada possibility of school transmission while ignoring base rates untuk pediatric severe disease dan educational/social costs dari closure.
 
-**Lesson**: Dramatic cases capture attention, but base rates determine optimal policy.
+**Pelajaran**: Dramatic cases capture attention, but base rates determine optimal policy.
 
 ---
 
@@ -231,7 +231,7 @@ Base-rate neglect isn't just individual cognitive bias—it's **systematic misal
 
 We over-invest dalam preventing rare but vivid risks while under-investing dalam addressing common but boring problems. We create policies berdasarkan dramatic exceptions rather than statistical norms.
 
-**Result: Suboptimal decisions at individual, organizational, dan societal levels.**
+**Hasil: Suboptimal decisions at individual, organizational, dan societal levels.**
 
 Understanding base rates adalah foundation untuk **rational risk assessment** dan **evidence-based decision making.**
 

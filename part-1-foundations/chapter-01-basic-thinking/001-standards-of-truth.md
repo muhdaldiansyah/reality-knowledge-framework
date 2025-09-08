@@ -24,7 +24,7 @@ Ketika kita tidak bisa membedakan level-level ini, kita jadi rentan. Investor, m
 
 ---
 
-## Piramida Evidence: Kompas Kebenaran
+## Piramida Bukti: Kompas Kebenaran
 
 Bayangkan sebuah piramida.
 
@@ -32,8 +32,8 @@ Bayangkan sebuah piramida.
 * Naik satu tingkat: **Anekdot.** Cerita pengalaman satu-dua orang.
 * Lebih tinggi: **Data Observasional.** Korelasi dari survei atau studi populasi.
 * Naik lagi: **Eksperimen Terkontrol (RCT).** Standar emas kausalitas.
-* Lebih atas: **Systematic Review.** Kompilasi menyeluruh dari berbagai studi.
-* Puncak: **Meta-analisis & Umbrella Review.** Analisis statistik gabungan dari banyak eksperimen atau bahkan banyak review.
+* Lebih atas: **Tinjauan Sistematis.** Kompilasi menyeluruh dari berbagai studi.
+* Puncak: **Meta-analisis & Tinjauan Payung.** Analisis statistik gabungan dari banyak eksperimen atau bahkan banyak tinjauan.
 
 Semakin tinggi posisinya, semakin kecil kemungkinan salah, semakin kuat fondasi kebenaran.
 
@@ -41,7 +41,7 @@ Theranos tidak pernah naik dari dasar piramida itu.
 
 ---
 
-## Level 1: Opini
+## Tingkat 1: Opini
 
 Opini sering kali terdengar meyakinkan, terutama jika datang dari seorang “ahli.”
 Seorang dokter berkata, “Menurut saya, kopi menyebabkan stunting pada anak.”
@@ -49,21 +49,21 @@ Seorang investor senior berkata, “Perusahaan ini pasti akan mengubah dunia.”
 
 Tetapi opini tidak diuji. Ia tidak bisa direplikasi. Bahkan pengalaman 30 tahun tidak menjamin kebal dari bias.
 
-**Red flag:** klaim absolut tanpa data, atau argumen berbasis otoritas (“Saya sudah puluhan tahun di bidang ini”).
+**Tanda bahaya:** klaim absolut tanpa data, atau argumen berbasis otoritas ("Saya sudah puluhan tahun di bidang ini").
 
 ---
 
-## Level 2: Anekdot
+## Tingkat 2: Anekdot
 
 Kita manusia hidup lewat cerita. “Paman saya merokok tiga bungkus sehari tapi tetap sehat sampai umur 95.” “Teman saya minum suplemen ini dan langsung sembuh.”
 
-Anekdot menarik, tetapi menyesatkan. Mereka sering kali hanya contoh dari *survivor bias*. Kita mendengar kisah sukses, tetapi tidak mendengar ribuan kisah gagal yang tidak pernah diceritakan.
+Anekdot menarik, tetapi menyesatkan. Mereka sering kali hanya contoh dari *bias penyintas*. Kita mendengar kisah sukses, tetapi tidak mendengar ribuan kisah gagal yang tidak pernah diceritakan.
 
 Theranos pandai memainkan level ini: kisah pasien yang katanya terbantu, testimoni investor yang kagum, cerita manis yang menutup fakta.
 
 ---
 
-## Level 3: Data Observasional
+## Tingkat 3: Data Observasional
 
 Naik lebih tinggi, kita menemukan pola. Survei ratusan ribu orang, catatan kesehatan jangka panjang, data big data.
 Contoh: studi Harvard pada 50.000 perawat selama 20 tahun yang menemukan konsumsi kopi berhubungan dengan umur panjang.
@@ -74,7 +74,7 @@ Theranos bahkan tidak sampai tahap ini. Tidak ada publikasi ilmiah, tidak ada da
 
 ---
 
-## Level 4: Eksperimen Terkontrol (RCT)
+## Tingkat 4: Eksperimen Terkontrol (RCT)
 
 Inilah filter besar pertama. Dengan randomisasi, kelompok perlakuan dan kontrol bisa dibandingkan adil. Dengan blinding, bias berkurang.
 
@@ -84,19 +84,19 @@ Tanpa RCT, klaim medis tidak bisa dipercaya. Holmes tidak pernah melakukannya.
 
 ---
 
-## Level 5: Systematic Review
+## Tingkat 5: Tinjauan Sistematis
 
-Satu eksperimen bisa salah. Karena itu kita butuh review komprehensif dari semua studi yang ada. Cochrane Review adalah contoh paling terkenal: ratusan peneliti menelaah semua publikasi, menyaring kualitas, lalu menyimpulkan.
+Satu eksperimen bisa salah. Karena itu kita butuh tinjauan komprehensif dari semua studi yang ada. Cochrane Tinjauan adalah contoh paling terkenal: ratusan peneliti menelaah semua publikasi, menyaring kualitas, lalu menyimpulkan.
 
-Systematic review memberi “peta besar” sebuah topik.
+Tinjauan sistematis memberi "peta besar" sebuah topik.
 
 ---
 
-## Level 6: Meta-Analisis & Umbrella Review
+## Tingkat 6: Meta-Analisis & Tinjauan Payung
 
 Puncaknya adalah meta-analisis: menggabungkan data dari banyak studi ke dalam satu analisis statistik. Dengan ribuan partisipan, kita bisa mendeteksi efek kecil sekalipun.
 
-Lebih tinggi lagi, umbrella review: gabungan dari berbagai meta-analisis. Misalnya, tinjauan besar tentang vitamin D dengan 137 outcome kesehatan berbeda.
+Lebih tinggi lagi, tinjauan payung: gabungan dari berbagai meta-analisis. Misalnya, tinjauan besar tentang vitamin D dengan 137 hasil kesehatan berbeda.
 
 Di sinilah klaim paling kokoh berdiri.
 
@@ -112,113 +112,113 @@ Aturannya sederhana: **semakin besar klaim, semakin tinggi level bukti yang haru
 
 ---
 
-## Digital Age: Information Warfare dan Standards of Truth
+## Era Digital: Perang Informasi dan Standar Kebenaran
 
-Era digital telah mengubah landscape informasi secara fundamental. Kita hidup dalam **information abundance** tapi juga **epistemic chaos**—terlalu banyak klaim, terlalu sedikit filter kualitas.
+Era digital telah mengubah lanskap informasi secara fundamental. Kita hidup dalam **kelimpahan informasi** tapi juga **kekacauan epistemik**—terlalu banyak klaim, terlalu sedikit filter kualitas.
 
-### The Democratization Problem
+### Masalah Demokratisasi
 
-**Traditional gatekeepers** (journals, editors, institutions) kehilangan monopoli pada information distribution:
-- **Social media**: Siapa saja bisa publish "research"
-- **YouTube University**: Tutorial dan lecture tanpa peer review
-- **Medium posts**: Opini dressed up sebagai analysis
-- **Podcast epidemics**: Long-form conversation yang sounds authoritative tapi lacking rigor
+**Penjaga gerbang tradisional** (jurnal, editor, institusi) kehilangan monopoli pada distribusi informasi:
+- **Media sosial**: Siapa saja bisa menerbitkan "penelitian"
+- **Universitas YouTube**: Tutorial dan kuliah tanpa tinjauan sejawat
+- **Posting Medium**: Opini yang didandani sebagai analisis
+- **Epidemi podcast**: Percakapan panjang yang terdengar berwibawa tapi kurang ketat
 
-**Result**: **Flattening of epistemic hierarchy**. Opini blogger dan peer-reviewed research mendapat equal visibility di Google search results.
+**Hasil**: **Perataan hierarki epistemik**. Opini blogger dan penelitian yang ditinjau sejawat mendapat visibilitas yang sama di hasil pencarian Google.
 
-### Viral ≠ Valid: The Attention Economy Problem
+### Viral ≠ Valid: Masalah Ekonomi Perhatian
 
-**Algoritma optimize untuk engagement**, bukan untuk truth:
-- **Sensational claims** get more clicks than boring facts
-- **Confirmation bias content** gets shared lebih sering
-- **Emotional content** spreads faster than rational analysis
-- **Simple narratives** beat complex nuance
+**Algoritma dioptimalkan untuk keterlibatan**, bukan untuk kebenaran:
+- **Klaim sensasional** mendapat lebih banyak klik daripada fakta membosankan
+- **Konten bias konfirmasi** dibagikan lebih sering
+- **Konten emosional** menyebar lebih cepat daripada analisis rasional
+- **Narasi sederhana** mengalahkan nuansa kompleks
 
-**Example**: Studi "Vaccines cause autism" (1 paper, 12 subjects, fraudulent) mendapat lebih banyak social media engagement daripada ratusan studi yang membuktikan vaccine safety.
+**Contoh**: Studi "Vaksin menyebabkan autisme" (1 makalah, 12 subjek, penipuan) mendapat lebih banyak keterlibatan media sosial daripada ratusan studi yang membuktikan keamanan vaksin.
 
-### The Echo Chamber Effect
+### Efek Ruang Gema
 
-**Filter bubbles** menciptakan parallel epistemic realities:
-- **Same information sources** → Same level of evidence standards
-- **Algorithm reinforcement** → Semakin extreme, semakin engaging
-- **Social proof** → "Everyone di circle saya percaya ini"
+**Gelembung filter** menciptakan realitas epistemik paralel:
+- **Sumber informasi yang sama** → Standar bukti yang sama
+- **Penguatan algoritma** → Semakin ekstrem, semakin menarik
+- **Bukti sosial** → "Semua orang di lingkaran saya percaya ini"
 
-**Case study**: Flat Earth movement. Community yang isolated dari mainstream science mengembangkan elaborate "evidence hierarchy" sendiri, dengan YouTube videos di puncak piramida dan NASA research di bottom.
-
----
-
-## The Business of Fake Evidence
-
-### Manufactured Science: Corporate Epistemic Manipulation
-
-**Industries** menggunakan sophisticated strategies untuk manipulate evidence standards:
-
-#### Big Tobacco Playbook (masih digunakan today)
-1. **Fund contradictory research** untuk create false controversy
-2. **Amplify uncertainty** dalam legitimate studies  
-3. **Create fake think tanks** dengan scientific-sounding names
-4. **Train spokespeople** dalam scientific language
-5. **Exploit media's "both sides" tendency**
-
-#### Modern Applications:
-- **Fossil fuel industry**: Climate change denial
-- **Pharmaceutical companies**: Hiding negative trial results
-- **Food industry**: Nutrition science manipulation
-- **Tech companies**: Algorithmic bias research suppression
-
-### The Replication Crisis: When Gold Standard Fails
-
-**Even peer-reviewed research** ternyata tidak sesolid yang kita kira:
-- **Psychology**: 65% of studies gagal replicated
-- **Medicine**: 50% of preclinical research non-reproducible
-- **Economics**: Major findings often tidak robust
-
-**Why this happens**:
-- **Publication bias**: Negative results tidak dipublish
-- **P-hacking**: Manipulate analysis untuk achieve significance
-- **Small sample sizes**: Insufficient statistical power
-- **Researcher degrees of freedom**: Too many analysis choices
-
-**Lesson**: **Even top of pyramid bisa corrupt**. Need additional filters.
+**Studi kasus**: Gerakan Bumi Datar. Komunitas yang terisolasi dari sains arus utama mengembangkan "hierarki bukti" sendiri yang rumit, dengan video YouTube di puncak piramida dan penelitian NASA di bawah.
 
 ---
 
-## Practical Framework: Navigating Modern Information Chaos
+## Bisnis Bukti Palsu
 
-### The Enhanced Evidence Pyramid
+### Sains Buatan: Manipulasi Epistemik Korporat
 
-**Traditional pyramid** perlu update untuk digital age:
+**Industri-industri** menggunakan strategi canggih untuk memanipulasi standar bukti:
 
-**Level 7: Institutional Consensus** (NEW)
-- Scientific consensus dari major institutions
-- Meta-analyses of systematic reviews
-- **Example**: IPCC climate reports, WHO health guidelines
+#### Buku Panduan Tembakau Besar (masih digunakan hingga hari ini)
+1. **Danai penelitian kontradiktif** untuk menciptakan kontroversi palsu
+2. **Perkuat ketidakpastian** dalam studi yang sah  
+3. **Buat lembaga pemikir palsu** dengan nama yang terdengar ilmiah
+4. **Latih juru bicara** dalam bahasa ilmiah
+5. **Manfaatkan kecenderungan media** menampilkan "kedua sisi"
 
-**Level 6: Meta-Analysis & Umbrella Reviews**
-- Statistical combination of multiple studies
-- **Red flags**: Industry-funded, cherry-picked studies
+#### Penerapan Modern:
+- **Industri bahan bakar fosil**: Penyangkalan perubahan iklim
+- **Perusahaan farmasi**: Menyembunyikan hasil uji coba negatif
+- **Industri makanan**: Manipulasi sains nutrisi
+- **Perusahaan teknologi**: Penekanan penelitian bias algoritma
 
-**Level 5: Systematic Reviews** 
+### Krisis Replikasi: Ketika Standar Emas Gagal
+
+**Bahkan penelitian yang telah ditinjau sejawat** ternyata tidak sesolid yang kita kira:
+- **Psikologi**: 65% studi gagal direplikasi
+- **Kedokteran**: 50% penelitian praklinik tidak dapat direproduksi
+- **Ekonomi**: Temuan besar sering kali tidak robust
+
+**Mengapa ini terjadi**:
+- **Bias publikasi**: Hasil negatif tidak dipublikasikan
+- **P-hacking**: Memanipulasi analisis untuk mencapai signifikansi
+- **Ukuran sampel kecil**: Kekuatan statistik tidak memadai
+- **Derajat kebebasan peneliti**: Terlalu banyak pilihan analisis
+
+**Pelajaran**: **Bahkan puncak piramida bisa korup**. Perlu filter tambahan.
+
+---
+
+## Kerangka Praktis: Menavigasi Kekacauan Informasi Modern
+
+### Piramida Bukti yang Diperkuat
+
+**Piramida tradisional** perlu diperbarui untuk era digital:
+
+**Tingkat 7: Konsensus Institusional** (BARU)
+- Konsensus ilmiah dari institusi-institusi besar
+- Meta-analisis dari tinjauan sistematis
+- **Contoh**: Laporan iklim IPCC, pedoman kesehatan WHO
+
+**Tingkat 6: Meta-Analisis & Tinjauan Payung**
+- Kombinasi statistik dari beberapa studi
+- **Tanda bahaya**: Studi yang didanai industri, pemilihan selektif
+
+**Tingkat 5: Systematic Reviews** 
 - Comprehensive review dengan quality standards
-- **Gold standard**: Cochrane Reviews
+- **Standar emas**: Cochrane Reviews
 
-**Level 4: Randomized Controlled Trials**
+**Tingkat 4: Randomized Controlled Trials**
 - Properly powered, pre-registered
 - **Check**: Sample size, blinding, conflict of interests
 
-**Level 3: Well-Designed Observational Studies**
+**Tingkat 3: Well-Designed Observational Studies**
 - Large samples, proper controls
 - **Limitation**: Still correlation, not causation
 
-**Level 2: Case Studies & Expert Opinion**
+**Tingkat 2: Case Studies & Expert Opinion**
 - Individual cases atau professional judgment
 - **Useful when**: RCTs impossible atau unethical
 
-**Level 1: Anecdotes & Testimonials**
+**Tingkat 1: Anecdotes & Testimonials**
 - Personal stories, isolated experiences
 - **Value**: Hypothesis generation only
 
-**Level 0: Speculation & Opinion** (NEW)
+**Tingkat 0: Speculation & Opinion** (NEW)
 - Social media posts, blog opinions
 - **Treat as**: Entertainment, not evidence
 
@@ -261,40 +261,40 @@ Era digital telah mengubah landscape informasi secara fundamental. Kita hidup da
 
 **The Claim**: "HCQ is effective COVID-19 treatment"
 
-**Evidence Analysis**:
-- **Level 1**: Anecdotal reports dari doctors, patient testimonials
-- **Level 2**: Small, non-randomized studies dengan positive results
-- **Level 3**: Larger observational studies dengan mixed results
-- **Level 4**: Multiple RCTs showing no benefit atau harm
-- **Level 5**: Meta-analysis concluding no therapeutic benefit
+**Bukti Analysis**:
+- **Tingkat 1**: Anecdotal reports dari doctors, patient testimonials
+- **Tingkat 2**: Small, non-randomized studies dengan positive results
+- **Tingkat 3**: Larger observational studies dengan mixed results
+- **Tingkat 4**: Multiple RCTs showing no benefit atau harm
+- **Tingkat 5**: Meta-analysis concluding no therapeutic benefit
 
-**Media Problem**: Level 1-2 evidence got same coverage as Level 4-5 evidence
+**Media Problem**: Tingkat 1-2 evidence got same coverage as Tingkat 4-5 evidence
 
-**Lesson**: **Higher-level evidence should get disproportionately more weight**, not equal coverage.
+**Pelajaran**: **Higher-level evidence should get disproportionately more weight**, not equal coverage.
 
 ### Case Study 2: Ivermectin Controversy
 
 **The Claim**: "Ivermectin prevents/treats COVID-19"
 
-**Evidence Journey**:
-1. **In vitro study**: Ivermectin kills virus dalam lab (Level 3)
-2. **Observational studies**: Mixed results dari different countries (Level 3)
+**Bukti Journey**:
+1. **In vitro study**: Ivermectin kills virus dalam lab (Tingkat 3)
+2. **Observational studies**: Mixed results dari different countries (Tingkat 3)
 3. **Fraudulent study**: Large effect size study later retracted
-4. **RCTs**: Multiple trials showing minimal benefit (Level 4)
-5. **Meta-analysis**: When fraudulent study removed, no significant effect (Level 5)
+4. **RCTs**: Multiple trials showing minimal benefit (Tingkat 4)
+5. **Meta-analysis**: When fraudulent study removed, no significant effect (Tingkat 5)
 
 **Information Warfare**: 
 - **Proponents** focused pada early, weaker evidence
 - **Social media** amplified anecdotal success stories
 - **Regulatory agencies** waited untuk higher-level evidence
 
-**Lesson**: **Single studies, even if peer-reviewed, can be wrong**. Need convergent evidence dari multiple high-quality sources.
+**Pelajaran**: **Single studies, even if peer-reviewed, can be wrong**. Need convergent evidence dari multiple high-quality sources.
 
 ### Case Study 3: Vitamin D dan COVID-19
 
 **The Claim**: "Vitamin D deficiency increases COVID-19 severity"
 
-**Evidence Quality Check**:
+**Bukti Quality Check**:
 - **Observational studies**: Strong correlation between low vitamin D dan poor outcomes
 - **Potential confounders**: Age, comorbidities, socioeconomic status, season
 - **RCTs**: Limited number, small sample sizes, mixed results
@@ -306,7 +306,7 @@ Era digital telah mengubah landscape informasi secara fundamental. Kita hidup da
 
 ---
 
-## Tools dan Resources: Building Your Evidence Evaluation Toolkit
+## Tools dan Resources: Building Your Bukti Evaluation Toolkit
 
 ### Essential Databases
 
@@ -387,20 +387,20 @@ Era digital telah mengubah landscape informasi secara fundamental. Kita hidup da
 
 ### Corporate Decision-Making
 
-**Evidence-based management** requires clear standards:
+**Bukti-based management** requires clear standards:
 
-**Level 4+**: Strategic decisions (market entry, major product launches)
+**Tingkat 4+**: Strategic decisions (market entry, major product launches)
 - Multiple data sources
 - A/B testing when possible
 - External expert consultation
 - Competitor analysis
 
-**Level 2-3**: Tactical decisions (feature changes, process improvements)  
+**Tingkat 2-3**: Tactical decisions (feature changes, process improvements)  
 - Internal data analysis
 - Customer feedback
 - Limited testing
 
-**Level 1**: Operational decisions (daily choices)
+**Tingkat 1**: Operational decisions (daily choices)
 - Experience-based judgment
 - Gut feeling acceptable
 
@@ -414,7 +414,7 @@ Era digital telah mengubah landscape informasi secara fundamental. Kita hidup da
 
 ### Government Policy
 
-**Evidence-informed policy** framework:
+**Bukti-informed policy** framework:
 - **Systematic reviews** untuk policy questions
 - **Pilot programs** before full implementation
 - **Impact evaluation** dengan proper metrics
@@ -429,7 +429,7 @@ Era digital telah mengubah landscape informasi secara fundamental. Kita hidup da
 **Morning Routine**: Start dengan high-quality sources
 - **Reuters/AP**: Factual news reporting
 - **Nature/Science**: Top scientific journals
-- **Our World dalam Data**: Evidence-based global trends
+- **Our World dalam Data**: Bukti-based global trends
 
 **Afternoon Filter**: Apply evidence standards
 - **Before sharing**: Apply CRAAP test
@@ -441,7 +441,7 @@ Era digital telah mengubah landscape informasi secara fundamental. Kita hidup da
 - **Where did I apply** appropriate skepticism?
 - **What questions** do I need better evidence untuk?
 
-### The Weekly Evidence Audit
+### The Weekly Bukti Audit
 
 **Pick 3 beliefs** you held strongly this week:
 1. **What level of evidence** supports each belief?
@@ -465,7 +465,7 @@ Era digital telah mengubah landscape informasi secara fundamental. Kita hidup da
 
 ## The Long Game: Cultural Change
 
-### From Information Consumers to Evidence Evaluators
+### From Information Consumers to Bukti Evaluators
 
 **Current paradigm**: Passive consumption of pre-digested information
 **Target paradigm**: Active evaluation of evidence quality
@@ -496,7 +496,7 @@ Era digital telah mengubah landscape informasi secara fundamental. Kita hidup da
 
 ---
 
-## Latihan Praktis: 21-Day Evidence Mastery Challenge
+## Latihan Praktis: 21-Day Bukti Mastery Challenge
 
 ### Week 1: Foundation Building
 
@@ -551,7 +551,7 @@ Era digital telah mengubah landscape informasi secara fundamental. Kita hidup da
 
 ### Ongoing Maintenance
 
-**Monthly Evidence Review**:
+**Monthly Bukti Tinjauan**:
 - **Audit information diet**: Are sources maintaining quality standards?
 - **Calibration check**: Were predictions based pada evidence accurate?
 - **Belief update**: What beliefs changed based pada new evidence?

@@ -112,7 +112,7 @@ Hasilnya? **Hampir tidak ada yang terjadi** pada 1 Januari 2000.
 
 ---
 
-## Digital Age: Availability Heuristic di Steroid
+## Era Digital: Heuristik Ketersediaan dalam Steroid
 
 Media sosial dan algoritma telah mengubah availability heuristic dari quirk kognitif menjadi **epistemic crisis**.
 
@@ -185,7 +185,7 @@ Sebagaimana kata statistician Hans Rosling: *"The world is not as dramatic as it
 
 ---
 
-## Case Study: COVID-19 dan Availability Heuristic
+## Studi Kasus: COVID-19 dan Heuristik Ketersediaan
 
 Pandemi COVID-19 adalah laboratory sempurna untuk mempelajari availability heuristic:
 
@@ -199,7 +199,7 @@ Pandemi COVID-19 adalah laboratory sempurna untuk mempelajari availability heuri
 
 **2022**: Omicron wave yang mostly mild tetap menimbulkan panic karena case numbers (yang available) lebih salient daripada hospitalization rates (yang sebenarnya lebih penting).
 
-**Lesson**: Yang tersedia di media tidak selalu representatif terhadap reality. **Data beats anecdote.**
+**Pelajaran**: Yang tersedia di media tidak selalu representatif terhadap reality. **Data beats anecdote.**
 
 ---
 
